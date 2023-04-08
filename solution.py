@@ -1,4 +1,5 @@
 import numpy as np
+import math as math
 
 chat_id = 753540521 
 # https://shitpoet.cc/sshots/2023-04-07--193056--196905498.png
